@@ -1,0 +1,8 @@
+{
+  "name": "Mahurangi College Life Counter App test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a8e0a4ee"
+}
